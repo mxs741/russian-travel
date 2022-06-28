@@ -1,0 +1,15 @@
+.cover {
+  aspect-ratio: 16 / 10;
+  background-image: url(../../images/cover-trains.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 auto;
+  width: 1184px;
+}
+
+@media screen and (max-width: 1279px) {
+  .cover {
+    width: 100%;
+  }
+}
