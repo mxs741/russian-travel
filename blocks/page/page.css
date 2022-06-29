@@ -4,6 +4,7 @@
   color: #fff;
   font-family: 'Inter', 'Arial', sans-serif;
   font-weight: 400;
+  min-width: 320px;
   padding: 28px 48px 24px;
 }
 
